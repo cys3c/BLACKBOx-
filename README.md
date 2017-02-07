@@ -1,3 +1,3 @@
 # BLACKBOx
 BLACKBOx Penetration Testing Framework 
-repository from https://github.com/darkeyepy/blackbox (acount has been deactivated)
+repository from https://github.com/darkeyepy/blackbox (account has been deactivated)
